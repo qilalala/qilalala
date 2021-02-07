@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="hanhan-01-01" unicode="&#59043;" d="M81.7 619.2c5.1 0 10.2-2 14.1-5.9L512 197.1l416.2 416.2c7.8 7.8 20.5 7.8 28.3 0s7.8-20.5 0-28.3L526.1 154.7c-7.8-7.8-20.5-7.8-28.3 0L67.5 585c-7.8 7.8-7.8 20.5 0 28.3 3.9 3.9 9.1 5.9 14.2 5.9z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
